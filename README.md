@@ -1,4 +1,4 @@
-# 🔐 CyberDriveX - Advanced File Encryption & Decryption Cybersecurity Application
+# CyberDriveX - Advanced File Encryption & Decryption Cybersecurity Application
 
 <div align="center">
   <img src="https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=800" alt="CyberDriveX Banner" width="800" height="300" style="border-radius: 10px; object-fit: cover;">
