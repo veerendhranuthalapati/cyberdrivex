@@ -13,6 +13,8 @@
   **A state-of-the-art, military-grade file encryption and decryption application built with modern web technologies**
 </div>
 
+[Visit the Demo App](https://whimsical-buttercream-d016df.netlify.app/)
+
 ---
 
 ## 📋 Table of Contents
