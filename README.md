@@ -13,8 +13,15 @@
   **A state-of-the-art, military-grade file encryption and decryption application built with modern web technologies**
 </div>
 
-[Visit the Demo App](https://whimsical-buttercream-d016df.netlify.app/)
+<h1 align="center" style="font-size: 3.5rem; font-weight: bold;">
+    File Encryption & Decryption Tool
+</h1>
 
+<p align="center" style="font-size: 1.4rem;">
+  <a href="https://whimsical-buttercream-d016df.netlify.app/" target="_blank">
+    <b>Visit the Demo App</b>
+  </a>
+</p>
 ---
 
 ## 📋 Table of Contents
@@ -161,7 +168,7 @@ CyberDriveX implements a multi-layered security architecture based on industry-s
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cyberdrivex.git
+git clone https://github.com/imtahirnaseer/CyberDriveX.git
 
 # Navigate to project directory
 cd cyberdrivex
@@ -201,8 +208,8 @@ npm run dev
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/cyberdrivex.git
-   cd cyberdrivex
+   git clone https://github.com/imtahirnaseer/CyberDriveX.git
+   cd CyberDriveX
    ```
 
 2. **Install Dependencies**
@@ -1774,8 +1781,8 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/cyberdrivex.git
-   cd cyberdrivex
+   git clone https://github.com/imtahirnaseer/CyberDriveX.git
+   cd CyberDriveX
    ```
 
 2. **Set Up Development Environment**
@@ -2034,10 +2041,10 @@ CyberDriveX operates entirely client-side and does not collect, transmit, or sto
 We extend our gratitude to all contributors who have helped make CyberDriveX a robust and secure application:
 
 #### **Core Development Team**
-- **Lead Developer**: [Your Name] - Architecture and cryptographic implementation
-- **Security Consultant**: [Security Expert] - Security audit and recommendations
-- **UI/UX Designer**: [Designer Name] - User interface and experience design
-- **Documentation Lead**: [Doc Writer] - Comprehensive documentation
+- **Lead Developer**: [Tahir Naseer] - Architecture and cryptographic implementation
+- **Security Consultant**: [Zaheer Ahmed] - Security audit and recommendations
+- **UI/UX Designer**: [Tahir Naseer] - User interface and experience design
+- **Documentation Lead**: [Vareendra Nathlapathi] - Comprehensive documentation
 
 #### **Community Contributors**
 - **Bug Reporters**: Community members who identified and reported issues
@@ -2144,13 +2151,13 @@ For enterprise users and professional support:
 ### 📧 Contact Information
 
 #### **Development Team**
-- **Project Lead**: [Your Email]
+- **Project Lead**: [tahirtechlab@gmail.com]
 - **Security Team**: security@cyberdrivex.com
 - **Documentation**: docs@cyberdrivex.com
 - **General Inquiries**: info@cyberdrivex.com
 
 #### **Social Media**
-- **Twitter**: @CyberDriveX
+- **Twitter**: @imtahirnaseer
 - **LinkedIn**: CyberDriveX Official
 - **YouTube**: CyberDriveX Tutorials
 - **Blog**: blog.cyberdrivex.com
@@ -2233,6 +2240,6 @@ CyberDriveX aims to become the leading open-source file encryption solution, pro
   
   **CyberDriveX - Securing Your Digital Life**
   
-  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/cyberdrivex?style=social)](https://github.com/yourusername/cyberdrivex)
-  [![Follow on Twitter](https://img.shields.io/twitter/follow/CyberDriveX?style=social)](https://twitter.com/CyberDriveX)
+  [![GitHub Stars](https://img.shields.io/github/stars/imtahirnaseer/cyberdrivex?style=social)](https://github.com/imtahirnaseer/CyberDriveX)
+  [![Follow on Twitter](https://img.shields.io/twitter/follow/imtahirnaseer?style=social)](https://twitter.com/imtahirnaseer)
 </div>
