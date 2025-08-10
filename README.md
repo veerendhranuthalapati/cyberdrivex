@@ -18,7 +18,7 @@
 </h1>
 
 <p align="center" style="font-size: 1.4rem;">
-  <a href="https://whimsical-buttercream-d016df.netlify.app/" target="_blank">
+  <a href="[https://whimsical-buttercream-d016df.netlify.app/](https://cyberdrivex.netlify.app/)" target="_blank">
     <b>Visit the Demo App</b>
   </a>
 </p>
